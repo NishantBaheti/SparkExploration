@@ -9,4 +9,4 @@
 
 ## YARN
 
-[https://hadoop.apache.org/docs/stable/hadoop-yarn/hadoop-yarn-site/yarn_architecture.gif]
+![yarn_architecture](https://hadoop.apache.org/docs/stable/hadoop-yarn/hadoop-yarn-site/yarn_architecture.gif)
